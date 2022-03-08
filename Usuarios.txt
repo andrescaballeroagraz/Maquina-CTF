@@ -1,0 +1,18 @@
+En el siguiente fichero se describen los distintos usuarios dados de alta en el sistema.
+
+Usuario/Contraseña - Aplicación
+guest/password - Sistema operativo
+root/password - Sistema operativo
+wordpress/password - Wordpress
+wordpress/password - BBDD Wordress
+root/password - BBDD SQL
+pokemon/password - BBDD Pokemon
+phpmyadmin/password - PhpMyadmin
+Andres/password - Pokemon_cards
+Adrian/password - Pokemon_cards
+Juan/password - Pokemon_cards
+Alberto/password - Pokemon_cards
+Miguel/password - Pokemon_cards
+Sergio/password - Pokemon_cards
+
+
